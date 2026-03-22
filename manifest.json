@@ -40965,6 +40965,28 @@
         "blob/2ae91695a372db4ffad8637d212ecfffdeeeffbf.nq.gz",
         "blob/2ca16de3e4954106028bac470380425e818d83c7.nq.gz",
         "blob/8d31e4cecdc05ccac78293df206a8fdfdf5fbde5.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/4e13299d4b0ec96bd4df9954ef646bd2d1b5bf2a.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/4e13299d4b0ec96bd4df9954ef646bd2d1b5bf2a.nq.gz",
+      "repolex": "aggregate/repolex/4e13299d4b0ec96bd4df9954ef646bd2d1b5bf2a.nq.gz",
+      "dep": "dep/4e13299d4b0ec96bd4df9954ef646bd2d1b5bf2a.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "NUnit",
+          "packageVersion": "4.5.1",
+          "githubOrg": "nunit",
+          "githubRepo": "nunit",
+          "githubCommit": "57e3cc8137f6e58af2d9dd44e2255b5615a96c4c"
+        },
+        {
+          "packageName": "Xunit",
+          "packageVersion": "2.9.3",
+          "githubOrg": "xunit",
+          "githubRepo": "xunit",
+          "githubCommit": "HEAD"
+        }
       ]
     }
   ],

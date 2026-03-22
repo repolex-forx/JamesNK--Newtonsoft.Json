@@ -1,0 +1,29 @@
+{
+  "commit": "4e13299d4b0ec96bd4df9954ef646bd2d1b5bf2a",
+  "files": {
+    "repolex": {
+      "path": "aggregate/repolex/4e13299d4b0ec96bd4df9954ef646bd2d1b5bf2a.nq.gz",
+      "size_bytes": 4909728
+    },
+    "dep": {
+      "path": "dep/4e13299d4b0ec96bd4df9954ef646bd2d1b5bf2a.nq.gz",
+      "size_bytes": 442
+    }
+  },
+  "dependencies": [
+    {
+      "packageName": "NUnit",
+      "packageVersion": "4.5.1",
+      "githubOrg": "nunit",
+      "githubRepo": "nunit",
+      "githubCommit": "57e3cc8137f6e58af2d9dd44e2255b5615a96c4c"
+    },
+    {
+      "packageName": "Xunit",
+      "packageVersion": "2.9.3",
+      "githubOrg": "xunit",
+      "githubRepo": "xunit",
+      "githubCommit": "HEAD"
+    }
+  ]
+}
