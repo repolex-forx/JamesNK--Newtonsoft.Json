@@ -1,5 +1,11 @@
 {
   "org": "JamesNK",
   "repo": "Newtonsoft.Json",
-  "versions": []
+  "versions": [
+    {
+      "commit": "4e13299d4b0ec96bd4df9954ef646bd2d1b5bf2a",
+      "tag": "",
+      "parsed_at": ""
+    }
+  ]
 }
